@@ -1,0 +1,12 @@
+body {
+    background-color: deepskyblue;
+}
+
+#family {
+    width: 250px;
+    height: 250px;
+}
+
+#family_name {
+    font-size: medium;
+}
